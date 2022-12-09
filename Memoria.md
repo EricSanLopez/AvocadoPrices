@@ -1,4 +1,6 @@
-# Avocado Prices
+# Avocado Prices Dataset
+
+El dataset usat inicialment per aquest estudi és Avocado Prices, de Justin Kiggins. Està disponible a Kaggle clicant el següent enllaç  https://www.kaggle.com/datasets/neuromusic/avocado-prices.
 
 ## Introducció
 
